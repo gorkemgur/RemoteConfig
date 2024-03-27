@@ -11,15 +11,27 @@ final class BaseViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("BANNER STATUS \(RemoteConfigHelper.sharedInstance.remoteConfigControlModel?.welcomeBannerEnabled ?? false)")
     }
     
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
+        view.backgroundColor = .red
+        checkWelcomeBannerStatus()
     }
     
+}
+
+extension BaseViewController {
+    func checkWelcomeBannerStatus() {
+        if let status = RemoteConfigHelper.sharedInstance.remoteConfigControlModel?.welcomeBannerEnabled {
+            if (status) {
+                print("SHOW BANNER")
+            } else {
+                print("DON'T SHOW BANNER")
+            }
+        }
+    }
 }
 
 

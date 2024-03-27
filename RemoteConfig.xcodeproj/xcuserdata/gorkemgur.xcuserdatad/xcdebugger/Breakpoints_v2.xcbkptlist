@@ -98,6 +98,38 @@
             endingLineNumber = "29"
             landmarkName = "checkWelcomeBannerStatus()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D1686460-1914-44C4-9E64-ADB1BEBC970E - 2b3082732b3ad9d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "D1686460-1914-44C4-9E64-ADB1BEBC970E - 2b3082732b3ad9d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "460">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -114,6 +146,38 @@
             endingLineNumber = "28"
             landmarkName = "checkWelcomeBannerStatus()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51D17A8F-CDAF-4B7F-8EF4-53D168B31203 - 2b3082732b3ad830"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "51D17A8F-CDAF-4B7F-8EF4-53D168B31203 - 2b3082732b3ad830"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -146,6 +210,38 @@
             endingLineNumber = "31"
             landmarkName = "checkWelcomeBannerStatus()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FD5A28CC-5D38-49EE-9B63-5453E1009BCC - 2b3082732b3ad993"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "668">
+               </Location>
+               <Location
+                  uuid = "FD5A28CC-5D38-49EE-9B63-5453E1009BCC - 2b3082732b3ad993"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "512">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -162,6 +258,197 @@
             endingLineNumber = "27"
             landmarkName = "checkWelcomeBannerStatus()"
             landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "461BC625-AC2D-4FB7-8363-61674DEFE90E - 2b3082732b3ad817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "461BC625-AC2D-4FB7-8363-61674DEFE90E - 2b3082732b3ad817"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.BaseViewController.checkWelcomeBannerStatus() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7AB55A2-B6F3-48C7-A001-EA71511E8203"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoteConfig/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "checkVersionForce()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7AB55A2-B6F3-48C7-A001-EA71511E8203 - 55e4174c41956d33"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "956">
+               </Location>
+               <Location
+                  uuid = "B7AB55A2-B6F3-48C7-A001-EA71511E8203 - 55e4174c41956d10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FA8B270-624E-4BDB-95F7-2620FEA7B89B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoteConfig/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "checkVersionForce()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4FA8B270-624E-4BDB-95F7-2620FEA7B89B - 55e4174c41956a75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1720">
+               </Location>
+               <Location
+                  uuid = "4FA8B270-624E-4BDB-95F7-2620FEA7B89B - 55e4174c41956a75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1500">
+               </Location>
+               <Location
+                  uuid = "4FA8B270-624E-4BDB-95F7-2620FEA7B89B - 55e4174c41956a75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "1528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "980DF1C0-C465-4BCE-B940-08B0427FEF73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RemoteConfig/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "checkVersionForce()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "980DF1C0-C465-4BCE-B940-08B0427FEF73 - 55e4174c41956db7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1204">
+               </Location>
+               <Location
+                  uuid = "980DF1C0-C465-4BCE-B940-08B0427FEF73 - 55e4174c41956db7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RemoteConfig.AppDelegate.checkVersionForce() -&gt; ()"
+                  moduleName = "RemoteConfig"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gorkemgur/Documents/GitHub/RemoteConfig/RemoteConfig/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "1232">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

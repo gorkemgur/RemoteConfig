@@ -26,9 +26,17 @@ extension BaseViewController {
     func checkWelcomeBannerStatus() {
         if let status = RemoteConfigHelper.sharedInstance.remoteConfigControlModel?.welcomeBannerEnabled {
             if (status) {
-                print("SHOW BANNER")
+                showWelcomeAlert()
             } else {
-                print("DON'T SHOW BANNER")
+                checkMaintenance()
+            }
+        }
+    }
+    
+    func checkMaintenance() {
+        if let remoteConfigModel = RemoteConfigHelper.sharedInstance.remoteConfigControlModel {
+            if (remoteConfigModel.isMaintenanceEnabled) {
+                showInformationAlert(title: remoteConfigModel.maintenanceModeTitle, description: remoteConfigModel.maintenanceModeDescription)
             }
         }
     }

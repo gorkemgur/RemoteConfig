@@ -10,7 +10,7 @@ import FirebaseRemoteConfig
 
 final class RemoteConfigHelper {
     
-    private let appBuildNumber = "\(Bundle.main.infoDictionary?["CFBundleShortVersionString"] ?? "")"
+    let appBuildNumber = "\(Bundle.main.infoDictionary?["CFBundleShortVersionString"] ?? "")"
     
     private(set) var remoteConfigControlModel: RemoteConfigControlModel? = nil
     

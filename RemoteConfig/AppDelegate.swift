@@ -18,6 +18,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         RemoteConfigHelper.sharedInstance.delegate = self
         RemoteConfigHelper.sharedInstance.fetchRemoteConfig()
         
+        window = UIWindow(frame: UIScreen.main.bounds)
+        
         return true
     }
     
@@ -25,7 +27,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 extension AppDelegate: RemoteConfigProtocol {
     func onFetched() {
-        checkMaintenance()
         checkVersionForce()
     }
     
@@ -34,14 +35,17 @@ extension AppDelegate: RemoteConfigProtocol {
     }
     
     func checkVersionForce() {
-        let homePageViewController = BaseViewController()
-        window = UIWindow(frame: UIScreen.main.bounds)
-        window?.rootViewController = homePageViewController
-        window?.makeKeyAndVisible()
-    }
-    
-    func checkMaintenance() {
-        
+        if let remoteConfigModel = RemoteConfigHelper.sharedInstance.remoteConfigControlModel {
+            if ((remoteConfigModel.isVersionForceEnabled) && (remoteConfigModel.latestVersion ?? "" > RemoteConfigHelper.sharedInstance.appBuildNumber)) {
+                window?.rootViewController = UINavigationController(rootViewController: UIViewController())
+                window?.makeKeyAndVisible()
+                window?.rootViewController?.showInformationAlert(title: remoteConfigModel.forceUpdateTitle, description: remoteConfigModel.forceUpdateDescription)
+            } else {
+                let homePageViewController = UINavigationController(rootViewController: BaseViewController())
+                window?.rootViewController = homePageViewController
+                window?.makeKeyAndVisible()
+            }
+        }
     }
     
 }

@@ -5,12 +5,14 @@
 //  Created by Görkem Gür on 27.03.2024.
 //
 
+import Firebase
 import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
+        FirebaseApp.configure()
         RemoteConfigHelper.sharedInstance.delegate = self
         RemoteConfigHelper.sharedInstance.fetchRemoteConfig()
         return true

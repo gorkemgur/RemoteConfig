@@ -28,6 +28,7 @@ final class RemoteConfigHelper {
     func fetchRemoteConfig() {
         dispatchQueue.async { [weak self] in
             guard let self = self else { return }
+            //If we need to instantly get value from remoteConfig we must use fetchAndActivate
             self.remoteConfig.fetchAndActivate { (status, error) in
                 if status == .successFetchedFromRemote {
                     self.remoteConfigControlModel = RemoteConfigControlModel(
